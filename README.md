@@ -1,3 +1,5 @@
+![](https://github.com/senselogic/CHALK/blob/master/LOGO/chalk.png)
+
 # Chalk
 
 Pastel color theme for Geany and Sublime Text.
