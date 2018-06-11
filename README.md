@@ -32,6 +32,3 @@ This project is licensed under the GNU General Public License version 3.
 
 See the [LICENSE.md](LICENSE.md) file for details.
 
-## Credits
-
-Based on the default themes.
