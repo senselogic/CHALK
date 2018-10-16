@@ -1,6 +1,7 @@
 {
     "dart.allowAnalytics": false,
     "editor.autoIndent": false,
+    "editor.detectIndentation": false,
     "editor.fontFamily": "'Consolas', monospace",
     "editor.fontWeight": "600",
     "editor.lineNumbers": "off",
@@ -14,5 +15,10 @@
         "settings.headerForeground": "#0044cc",
         "sideBar.background": "#000000",
         "tab.activeBackground": "#888888"
+    },
+    "[dart]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false
     }
 }
