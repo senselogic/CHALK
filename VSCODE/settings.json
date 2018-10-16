@@ -1,0 +1,18 @@
+{
+    "dart.allowAnalytics": false,
+    "editor.autoIndent": false,
+    "editor.fontFamily": "'Consolas', monospace",
+    "editor.fontWeight": "600",
+    "editor.lineNumbers": "off",
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        "editor.background": "#f8f8f8",
+        "editorHoverWidget.background": "#eeeeee",
+        "editorSuggestWidget.background": "#eeeeee",
+        "editorSuggestWidget.selectedBackground": "#ffffaa",
+        "foreground": "#888888",
+        "settings.headerForeground": "#0044cc",
+        "sideBar.background": "#000000",
+        "tab.activeBackground": "#888888"
+    }
+}
