@@ -4,11 +4,12 @@
     "editor.detectIndentation": false,
     "editor.fontFamily": "'Consolas', monospace",
     "editor.fontWeight": "600",
-    "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
     "workbench.colorCustomizations": {
         "editor.background": "#f8f8f8",
         "editorHoverWidget.background": "#eeeeee",
+        "editorLineNumber.foreground": "#cccccc",
+        "editorLineNumber.activeForeground": "#444444",
         "editorSuggestWidget.background": "#eeeeee",
         "editorSuggestWidget.selectedBackground": "#ffffaa",
         "foreground": "#888888",
@@ -16,6 +17,7 @@
         "sideBar.background": "#000000",
         "tab.activeBackground": "#888888"
     },
+    "workbench.colorTheme": "Chalk",
     "[dart]": {
         "editor.tabSize": 4,
         "editor.insertSpaces": true,
